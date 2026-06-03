@@ -1,5 +1,4 @@
 import Navbar from "./components/Navbar";
-
 import HeroSection from "./sections/HeroSection";
 import WhyProperty from "./sections/WhyProperty";
 import RetailSection from "./sections/RetailSection";
