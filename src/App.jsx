@@ -7,6 +7,7 @@ import DiningSection from "./sections/DiningSection";
 import AttractionsSection from "./sections/AttractionsSection";
 import EventsSection from "./sections/EventsSection";
 import SponsorshipSection from "./sections/SponsorshipSection";
+
 import ContactSection from "./sections/ContactSection";
 
 function App() {
